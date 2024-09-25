@@ -14,7 +14,7 @@ Before running the dashboard, ensure you have the following installed:
 1. Clone this repository or download the source code.
 
 ```
-git clone https://github.com/raflyranggha/Bike-Sharing-Analysis.git
+git clone https://github.com/raflyrangghani/Bike-Sharing-Analysis.git
 cd Bike-Sharing-Analysis
 ```
 
